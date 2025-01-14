@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-convert-image",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "n8n node for converting image formats between JPG, PNG, BMP, TIFF, etc. Supports both base64 and file inputs/outputs",
   "keywords": [
     "n8n-community-node-package",

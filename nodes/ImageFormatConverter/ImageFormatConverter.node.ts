@@ -21,7 +21,7 @@ export class ImageFormatConverter implements INodeType {
 		version: 1,
 		description: 'Image Format Converter',
 		defaults: {
-			name: 'To JPG',
+			name: 'Image Format Converter',
 		},
 		inputs: ['main'],
 		outputs: ['main'],
